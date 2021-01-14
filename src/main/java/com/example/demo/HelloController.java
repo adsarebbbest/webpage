@@ -15,3 +15,4 @@ public class HelloController {
     return "<!DOCTYPE html><html><head><title>Error</title></head><body><p>This page doesn't exist.</p></body></html>";
   }
 } 
+ 
